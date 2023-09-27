@@ -16,4 +16,6 @@ CSS
 [Live Page](https://rhettroseman.github.io/upgraded-rotary-phone/)
 
 ## Screenshots 
-
+/Users/jroseman3/Desktop/untitled folder 20/upgraded-rotary-phone/assets/screenshots/Screenshot 2023-09-26 at 8.26.56 PM 2.png
+/Users/jroseman3/Desktop/untitled folder 20/upgraded-rotary-phone/assets/screenshots/Screenshot 2023-09-26 at 8.28.39 PM 2.png
+/Users/jroseman3/Desktop/untitled folder 20/upgraded-rotary-phone/assets/screenshots/Screenshot 2023-09-26 at 8.29.00 PM 2.png
