@@ -9,6 +9,11 @@ Then something happens with the picture
 HTML 
 CSS 
 
-# Links 
-[Github]()
-[Live Page]()
+## Links 
+[Github](https://github.com/RhettRoseman/upgraded-rotary-phone/tree/main)
+
+
+[Live Page](https://rhettroseman.github.io/upgraded-rotary-phone/)
+
+## Screenshots 
+
